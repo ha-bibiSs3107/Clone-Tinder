@@ -16,6 +16,7 @@ body{
     width: 100%;
     justify-content: space-around;
     padding: 10px 0;
+    height: 44px;
 }
 
 .navbar i{
@@ -38,7 +39,7 @@ body{
     width: 90vw;
     height: 85vh;
     background: url(LH.jpg) center center/cover; 
-    border: 10px;
+    border-radius: 10px;
     display: flex;
     align-items: flex-end;
     color: #ccc;
